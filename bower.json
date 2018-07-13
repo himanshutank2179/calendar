@@ -1,0 +1,21 @@
+{
+  "name": "calendar",
+  "authors": [
+    "himanshu <himanshutank1111@gmail.com>"
+  ],
+  "description": "calendar app frontend dependancy management",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "fullcalendar": "^3.9.0"
+  }
+}
